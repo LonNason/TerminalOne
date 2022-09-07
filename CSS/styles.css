@@ -1,0 +1,86 @@
+h1 {
+  color: #052010;
+  font-weight: 700;
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  color: #052010;
+}
+
+p {
+  color: #254343;
+  font-family: 'Kalam', cursive;
+}
+
+.loadboard {
+  font-family: 'Permanent Marker', cursive;
+  color: #052010;
+}
+
+.row {
+  text-align: center;
+}
+
+.navbar {
+  padding: .5rem 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  color: #052010;
+  font-family: 'Kalam', cursive;
+}
+
+.navbar-brand {
+  color: #052010;
+  font-family: 'Kalam', cursive;
+}
+
+#section1 {
+  position: relative;
+  background-color: #B6C3C7;
+  padding-top: 15px;
+}
+
+#section15 {
+  position: relative;
+  background-color: #B6C3C7;
+  text-align: center;
+  padding: 0;
+}
+
+
+#section2 {
+  background-color: #68797B;
+}
+
+.feature-box {
+  padding: 2.5%;
+  position: relative;
+}
+
+.download-button {
+  margin: 3% .5% .5% .5%;
+
+}
+
+.center {
+  padding: 5%;
+  text-align: center;
+  margin-top: 0;
+  position: relative;
+}
+
+.lefttruck {
+  float: left;
+}
+
+.righttruck {
+  float: right;
+}
