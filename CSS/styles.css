@@ -85,8 +85,3 @@ p {
   float: right;
 }
 
-@media (max-width: 990px) {
-h1{
-  font-size: 15rem;
-}
-}
