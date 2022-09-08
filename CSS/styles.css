@@ -90,7 +90,7 @@ p {
 }
 
 @media(max-width: 1200px) {
- h1{font-size: 7rem;}
- .lefttruck{width: 50rem;}
- .righttruck{width: 50rem;}
+ h1{font-size: 6.5rem;}
+ .lefttruck{width: 100%;}
+ .righttruck{width: 100%;}
 }
