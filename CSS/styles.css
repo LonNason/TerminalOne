@@ -10,6 +10,10 @@ h3 {
   color: #052010;
 }
 
+body {
+  margin: 0;
+}
+
 p {
   color: #254343;
   font-family: 'Kalam', cursive;
