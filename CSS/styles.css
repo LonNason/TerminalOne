@@ -87,6 +87,6 @@ p {
 
 @media(max-width: 1200px) {
  h1{font-size: 8rem;}
- .lefttruck{width: 35rem;}
- .righttruck{width: 35rem;} 
+ .lefttruck{width: 65rem;}
+ .righttruck{width: 65rem;} 
 }
