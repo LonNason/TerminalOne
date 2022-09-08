@@ -85,7 +85,7 @@ p {
   float: right;
 }
 
-@media screen and(max-width: 900px) {
+@media(max-width: 900px) {
 
-  h1{font-size: 130%;}
+  h1{font-size: 50rem;}
 }
