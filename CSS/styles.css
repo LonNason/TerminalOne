@@ -90,4 +90,5 @@ p {
  .lefttruck{width: 50rem;}
  .righttruck{width: 50rem;}
   body{margin-right: 0;}
+  html{overflow: hidden;}
 }
